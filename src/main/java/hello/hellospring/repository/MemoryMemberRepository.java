@@ -8,7 +8,6 @@ import java.util.*;
 
 
 
-@Repository
 public class MemoryMemberRepository implements MemberRepository{
 
     /*
